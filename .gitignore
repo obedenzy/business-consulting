@@ -1,0 +1,10 @@
+# IDE specific files
+.idx/
+.vscode/
+
+# dependencies
+node_modules/
+
+# firebase
+firebase.json
+.firebase/
